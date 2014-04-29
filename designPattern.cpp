@@ -1,5 +1,3 @@
-test change master.....
-qwertasdfgzxcvxbxvdsfgfdgdfg
 //单例模式，非线程安全
 #include <iostream>
 using namespace std;
